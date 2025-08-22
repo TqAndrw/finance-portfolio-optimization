@@ -15,5 +15,5 @@ This project applies **Modern Portfolio Theory (MPT)** to optimize a portfolio o
 ## 🚀 How to Run
 1. Clone the repo
    ```bash
-   git clone https://github.com/yourusername/finance-portfolio-optimization.git
+   git clone https://github.com/TqAndrw/finance-portfolio-optimization.git
    cd finance-portfolio-optimization  
