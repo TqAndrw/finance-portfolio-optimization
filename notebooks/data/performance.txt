@@ -1,0 +1,6 @@
+Max Sharpe Portfolio
+Return: 31.2945%
+Volatility: 28.9752%
+Sharpe (approx): 1.08
+Equal-weight Return: 38.9794%
+Equal-weight Volatility: 30.7201%
